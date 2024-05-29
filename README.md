@@ -20,3 +20,5 @@ I am currently a student of electronic engineering, with a great experience in f
 I have successfully applied these skills in the work field, where I have a remarkable experience of more than two years in full stack development, in the management and control of databases, as well as hosting and the cloud.
 
 Throughout my learning path I have had to use and learn everything that is required of me, therefore I have a great capacity of adaptability to any requirement. 
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)}" />
