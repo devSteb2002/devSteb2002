@@ -21,4 +21,4 @@ I have successfully applied these skills in the work field, where I have a remar
 
 Throughout my learning path I have had to use and learn everything that is required of me, therefore I have a great capacity of adaptability to any requirement. 
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)}" />
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
